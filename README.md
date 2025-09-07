@@ -25,7 +25,7 @@ Tech Stack:
    ```
 3. Set up environment variables for backend using `.env.example` as a reference
 4. Run the backend server using `npm run start:dev`
-5. Access the API documentation at `http://localhost:3000/api`
+5. Access the API documentation at `http://localhost:3001/api`
 6. Go back to my [frontend repository](https://github.com/Bunsou/KIT---Simple-Quote-Generator-Frontend.git)
 
 ## Architecture Explanation:
