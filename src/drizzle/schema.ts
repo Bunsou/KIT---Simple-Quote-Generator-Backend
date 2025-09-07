@@ -8,6 +8,8 @@ export const quotes = pgTable('quotes', {
   // creatorId: integer('creatorId').references(() => users.id),
 });
 
+export type Quote = typeof quotes.$inferSelect;
+
 //todo: Implement user authentication and authorization later after Midterm
 
 // export const users = pgTable('users', {
